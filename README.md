@@ -20,7 +20,7 @@ pip install .
 Or install directly from the repository:
 
 ```bash
-pip install git+https://github.com/yourusername/typoer.git
+pip install git+https://github.com/Bioooz/typoer.git
 ```
 
 ---
@@ -90,9 +90,6 @@ typoer(
 
 ---
 
-## Screenshot
-
-<!-- Add a screenshot or GIF of the GUI here -->
 
 ---
 
@@ -112,6 +109,5 @@ MIT License
 ---
 
 ## Links
-- [GitHub Repository](https://github.com/yourusername/typoer)
-- [Report Issues](https://github.com/yourusername/typoer/issues)
->>>>>>> 6ff0313 (Polished Typoer: code cleanup, docs, packaging, and ready for open source)
+- [GitHub Repository](https://github.com/Bioooz/typoer)
+- [Report Issues](https://github.com/Bioooz/typoer/issues)
