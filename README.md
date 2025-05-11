@@ -88,7 +88,6 @@ typoer(
 - `wait_key`: Key to press to start typing (default: none)
 - `break_key`: Key to press to stop typing (default: 'escape')
 
----
 
 
 ---
@@ -98,7 +97,6 @@ typoer(
 Contributions, issues, and feature requests are welcome!
 - Fork the repo and submit a pull request
 - Open an issue for bugs or suggestions
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for more details (if available)
 
 ---
 
