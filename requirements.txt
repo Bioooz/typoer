@@ -1,1 +1,6 @@
-keyboard
+keyboard>=0.13.5
+transformers==4.36.2
+torch==2.1.2
+requests==2.31.0
+python-dotenv==1.0.0
+google-generativeai>=0.3.0
